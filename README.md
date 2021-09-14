@@ -8,8 +8,7 @@ I spend far more time than I should creating new things to increase my knowledge
 My website/Portfolio:  <! –– Working on it ––>
 <p align="center">
  <a href="https://github.com/agustdons"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://youtube.com/TroubleChute"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.linkedin.com/in/agustin-dons/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+ <a href="https://www.linkedin.com/in/agustin-dons/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 </p>
 
 <h3 align="center">Languages that I have worked with and in which I am still learning </h3>
