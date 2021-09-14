@@ -14,7 +14,6 @@ My website/Portfolio:  <! –– Working on it ––>
 <h3 align="center">Languages that I have worked with and in which I am still learning </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/AutoHotkey-4FBB4F?style=for-the-badge&logo=autohotkey&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
