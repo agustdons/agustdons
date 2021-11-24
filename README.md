@@ -2,7 +2,7 @@
   ![SpaceMan1](https://user-images.githubusercontent.com/88813755/133195242-fa2bd9cf-dcc9-40fe-8eb3-e34a5ed9afe1.jpg)
 
 
-Hi! I'm Agustin, a Developer from Argentina.
+Hi! I'm Agustin, a Frontend Developer from Argentina.
 I spend far more time than I should creating new things to increase my knowledge, and this is where you can find it.
 
 My website/Portfolio:  <! –– Working on it ––>
